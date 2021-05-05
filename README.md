@@ -1,4 +1,7 @@
-![Imagen Az900](/az-900.jpg)
+<p align = "center">
+  <img src=/az-900.jpg>
+</p>
+
 # Conceptos
 
 ## Tipos de Nubes
