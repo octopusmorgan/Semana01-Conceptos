@@ -19,4 +19,4 @@
    Es un lenguaje de computación para trabajar con conjuntos de datos y las relaciones entre ellos.
   
   - Networking 
-   Es una práctica bastante frecuente en el entorno emprendedor y el empresarial. Se trata de la construcción de una red de contactos con la finalidad de crear nuevas oportunidades   de negocio u otras de carácter laboral
+   Es una práctica bastante frecuente en el entorno emprendedor y el empresarial. Se trata de la construcción de una red de contactos con la finalidad de crear nuevas oportunidades   de negocio u otras de carácter laboral.
