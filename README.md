@@ -43,7 +43,7 @@
        - Puede estar ubicada en el centro de datos de la organización u hospedaje por el proveedor del servicio.
        - Sus costes suelen ser más altos que de otras Nubes.
   
-   + **Nube Híbrida:
+   + **Nube Híbrida:**
        - *La mejor de ambos mundos.
        - *Está enfocada a pequeñas y grandes empresas
        - Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
