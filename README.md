@@ -4,7 +4,7 @@
 
 ## Modelos de Servicio en la Nube:
 ># IaaS(Infraestructura como Servicio)
-   Ifraestructura de pago por uso, que alquila los servidores, maquinas virtuales, almacenamiento,redes y Sistemas Operativos de un provedor.
+### Ifraestructura de pago por uso, que alquila los servidores, maquinas virtuales, almacenamiento,redes y Sistemas Operativos de un provedor.
   
 ># PaaS(Plataforma como Servicio)
 ### Proporciona un entorno de para construir,probar e implementar aplicaiones de software.
