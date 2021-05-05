@@ -4,7 +4,7 @@
 
 # Conceptos
 
-## Tipos de Nubes
+## Tipos de Nubes ☁️
   
   **La Nube se define como un servicio de transmisión y almacenaje de datos a través de internet.**
   
